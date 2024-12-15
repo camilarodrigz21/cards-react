@@ -1,0 +1,28 @@
+.card-user {
+    border: 1px solid pink;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 50px 10px;
+    width: 350px;
+}
+
+.article-user {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-card-user {
+    width: 100%;
+}
+
+.info-user {
+    margin-left: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 12px 24px;
+}
+
+.info-user h3, h6 {
+    margin: 0;
+}
